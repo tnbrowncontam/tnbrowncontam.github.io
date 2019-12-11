@@ -7,7 +7,7 @@ Dr. Trevor N. Brown is self-employed as a freelance science researcher. His prim
 
 ## Where to find TNB
 
-- See TNB's CV [here](./tnb_cv.md).
+- TNB [CV and model links](./tnb_cv.md).
 - TNB on [Google Scholar](https://scholar.google.ca/citations?user=RhJqoXkAAAAJ&hl=en).
 - TNB on [ResearchGate](https://www.researchgate.net/profile/Trevor_Brown).
 - TNB on [GitHub](https://github.com/tnbrowncontam).
