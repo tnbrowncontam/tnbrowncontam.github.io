@@ -10,7 +10,7 @@ Dr. Brown obtained his B.Sc. in Environmental Chemistry at Thompson Rivers Unive
 
 ## Publications
 
-1.	Brown T.N., J.M. Armitage, and J.A. Arnot, Application of an Iterative Fragment Selection (IFS) Method to Estimate Entropies of Fusion and Melting Points of Organic Chemicals. Molecular Informatics, 2019. 38(8-9): p. 1800160. [[DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201800160)] [[Model](https://github.com/tnbrowncontam/ifsapp)]
+1.	Brown T.N., J.M. Armitage, and J.A. Arnot, Application of an Iterative Fragment Selection (IFS) Method to Estimate Entropies of Fusion and Melting Points of Organic Chemicals. Molecular Informatics, 2019. 38(8-9): p. 1800160. \[[DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201800160)\] \[[Model](https://github.com/tnbrowncontam/ifsapp)\]
 2.	Hussain B.A., Westgate J.N., Hayward S.J., Shunthirasingham C., Brown T.N., Hung H., Lei Y.D., Wania F.; Polycyclic aromatic hydrocarbons and polychlorinated biphenyls in soils and atmosphere of Western Canadian mountains: The role of source proximity, precipitation, forest cover and mountain cold-trapping. Atmosph. Environ. X, 2018, 1, 100004.
 3.	Undeman E., Brown T.N., McLachlan M.S., Wania F.; Who in the world is most exposed to polychlorinated biphenyls? Using models to identify highly exposed populations. Environ. Res. Lett., 2018, 13, 064036.
 4.	Larisch W., Brown T.N., Goss K.U.; A toxicokinetic model for fish including multiphase sorption features. Environ. Toxicol. Chem., 2017, 36, 1538-1546.
