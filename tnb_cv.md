@@ -1,6 +1,6 @@
 [Back to Homepage](./index.md)
 
-# CV of Trevor N. Brown
+# CV of Trevor N. Brown\
 
 ## Education and Employment
 
@@ -15,21 +15,21 @@ Dr. Brown obtained his B.Sc. in Environmental Chemistry at Thompson Rivers Unive
 5.	Arp H.P.H., Brown T.N., Berger U., Hale S.E.; Ranking REACH registered neutral, ionizable and ionic organic chemicals based on their aquatic persistency and mobility. Environ. Sci. Proc. Imp., 2017, 19, 939-955.  \[[DOI](https://doi.org/10.1039/C7EM00158D)\]
 6.	Chen Y., Hermens J.L.M., Jonker M.T.O., Arnot J.A., Armitage J.M., Brown T.N., Nichols J.W., Fay K.A., Droge S.T.J.; Which molecular features affect the intrinsic hepatic clearance rate of ionizable organic chemicals in fish? Environ. Sci. Technol., 2016, 50, 12722-12731. \[[DOI](https://doi.org/10.1021/acs.est.6b03504)\]
 7.	Brown T.N., Armitage J.M., Egeghy P., Kircanski I., Arnot J.A.; Dermal permeation data and models for the prioritization and screening-level exposure assessment of organic chemicals. Environ. Int., 2016, 94, 424-435. \[[DOI](https://doi.org/10.1016/j.envint.2016.05.025)\]
-8.	McLachlan M.S., Kierkegaard A., Radke M., Sobek A., Malmvärn A., Alsberg T., Arnot J.A., Brown T.N., Wania F., Breivik K., Xu S.; Using model-based screening to help discover known environmental contaminants. Environ. Sci. Technol., 2014, 48, 7264-7271.
-9.	Arnot J.A., Brown T.N., Wania F.; Estimating screening-level organic chemical half-lives in humans. Environ. Sci. Technol., 2014, 48, 723-730.
-10.	Brown T.N.; Predicting hexadecane-air equilibrium partition coefficients (L) with a group contribution approach constructed from high-quality data. SAR QSAR Environ. Res., 2014, 25, 51-71.
-11.	Zhang X., Brown T.N., Ansari A., Yeun B., Kitaoka K., Kondo A., Lei Y.D., Wania F.; Effect of wind on the chemical uptake kinetics of a passive air sampler. Environ. Sci. Technol., 2013, 47, 7868-7875.
-12.	Endo S., Brown T.N., Goss K.-U.; General model for estimating partition coefficients to organisms and their tissues using the biological compositions and polyparameter linear free energy relationships. Environ. Sci. Technol., 2013, 47, 6630-6639.
-13.	Goss K.-U., Brown T.N., and Endo S.; Elimination half-life as a metric for the bioaccumulation potential of chemicals in aquatic and terrestrial food chains. Environ. Toxicol. Chem. 2013, 32, 1663-1671.
-14.	Armitage J.M., Choi S.-D., Meyer T., Brown T.N., Wania F.; Exploring the role of shelf sediments in the Arctic Ocean in determining the Arctic contamination potential of neutral organic contaminants. Environ. Sci. Technol. 2013, 47, 923-931.
-15.	Arnot J.A., Brown T.N., Wania F., Breivik K., McLachlan M.S.; Prioritizing Chemicals and Data Requirements for Screening-Level Exposure and Risk Assessment. Environ. Health Perspect. 2012, 120, 1565-1570.
-16.	Brown T.N., Arnot J.A., and Wania F.; Iterative Fragment Selection: A Group Contribution Approach to Predicting Fish Biotransformation Half-Lives. Environ. Sci. Technol. 2012, 46, 8253-8260.
-17.	Breivik K., Arnot J.A., Brown T.N., McLachlan M.S., Wania F.; Screening organic chemicals in commerce for emissions in the context of environmental and human exposure. J. Environ. Monit., 2012, 14, 2028-2037.
-18.	Undeman E., Brown T.N., Wania F., McLachlan M.S.; The Susceptibility of Human Populations to Environmental Exposure to Organic Contaminants. Environ. Sci. Technol. 2010, 44, 6249-6255.
-19.	Zhang X., Brown T.N., Wania F., Heimstad E.S., Goss K.-U.; Assessment of Chemical Screening Outcomes Based on Different Partitioning Property Estimation Methods. Environ. Int. 2010, 36, 514-520.
-20.	Brown T.N. and Wania F.; Development and Exploration of an Organic Contaminant Fate Model Using Poly-Parameter Linear Free Energy Relationships. Environ. Sci. Technol. 2009, 43, 6676-6683.
-21.	Brown T.N. and Wania F.; Screening Chemicals for the Potential to be Persistent Organic Pollutants: A Case Study of Arctic Contaminants. Environ. Sci. Technol. 2008, 42, 5202-5209.
-22.	Brown T.N. and Mora-Diez N.; Computational determination of aqueous pKa values of protonated benzimidazoles (part 1). J. Phys. Chem. B 2006, 110, 9270-9279.
-23.	Brown T.N. and Mora-Diez N.; Computational determination of aqueous pKa values of protonated benzimidazoles (part 2). J. Phys. Chem. B 2006, 110, 20546-20554.
-
+8.	McLachlan M.S., Kierkegaard A., Radke M., Sobek A., Malmvärn A., Alsberg T., Arnot J.A., Brown T.N., Wania F., Breivik K., Xu S.; Using model-based screening to help discover known environmental contaminants. Environ. Sci. Technol., 2014, 48, 7264-7271. \[[DOI](https://doi.org/10.1021/es5010544)\]
+9.	Arnot J.A., Brown T.N., Wania F.; Estimating screening-level organic chemical half-lives in humans. Environ. Sci. Technol., 2014, 48, 723-730. \[[DOI](https://doi.org/10.1021/es4029414)\] \[[Model](https://github.com/tnbrowncontam/ifsapp)\]
+10.	Brown T.N.; Predicting hexadecane-air equilibrium partition coefficients (L) with a group contribution approach constructed from high-quality data. SAR QSAR Environ. Res., 2014, 25, 51-71. \[[DOI](https://doi.org/10.1080/1062936X.2013.841286)\] \[[Model](https://github.com/tnbrowncontam/ifsapp)\]
+11.	Zhang X., Brown T.N., Ansari A., Yeun B., Kitaoka K., Kondo A., Lei Y.D., Wania F.; Effect of wind on the chemical uptake kinetics of a passive air sampler. Environ. Sci. Technol., 2013, 47, 7868-7875. \[[DOI](https://doi.org/10.1021/es401486f)\]
+12.	Endo S., Brown T.N., Goss K.-U.; General model for estimating partition coefficients to organisms and their tissues using the biological compositions and polyparameter linear free energy relationships. Environ. Sci. Technol., 2013, 47, 6630-6639. \[[DOI](https://doi.org/10.1021/es401772m)\]
+13.	Goss K.-U., Brown T.N., and Endo S.; Elimination half-life as a metric for the bioaccumulation potential of chemicals in aquatic and terrestrial food chains. Environ. Toxicol. Chem. 2013, 32, 1663-1671. \[[DOI](https://doi.org/10.1002/etc.2229)\]
+14.	Armitage J.M., Choi S.-D., Meyer T., Brown T.N., Wania F.; Exploring the role of shelf sediments in the Arctic Ocean in determining the Arctic contamination potential of neutral organic contaminants. Environ. Sci. Technol. 2013, 47, 923-931. \[[DOI](https://doi.org/10.1021/es304276g)\]
+15.	Arnot J.A., Brown T.N., Wania F., Breivik K., McLachlan M.S.; Prioritizing Chemicals and Data Requirements for Screening-Level Exposure and Risk Assessment. Environ. Health Perspect. 2012, 120, 1565-1570. \[[DOI](https://doi.org/10.1289/ehp.1205355)\]
+16.	Brown T.N., Arnot J.A., and Wania F.; Iterative Fragment Selection: A Group Contribution Approach to Predicting Fish Biotransformation Half-Lives. Environ. Sci. Technol. 2012, 46, 8253-8260. \[[DOI](https://doi.org/10.1021/es301182a)\] \[[Model](https://github.com/tnbrowncontam/ifsapp)\]
+17.	Breivik K., Arnot J.A., Brown T.N., McLachlan M.S., Wania F.; Screening organic chemicals in commerce for emissions in the context of environmental and human exposure. J. Environ. Monit., 2012, 14, 2028-2037. \[[DOI](https://doi.org/10.1039/C2EM30259D)\]
+18.	Undeman E., Brown T.N., Wania F., McLachlan M.S.; The Susceptibility of Human Populations to Environmental Exposure to Organic Contaminants. Environ. Sci. Technol. 2010, 44, 6249-6255. \[[DOI](https://doi.org/10.1021/es1009339)\]
+19.	Zhang X., Brown T.N., Wania F., Heimstad E.S., Goss K.-U.; Assessment of Chemical Screening Outcomes Based on Different Partitioning Property Estimation Methods. Environ. Int. 2010, 36, 514-520. \[[DOI](https://doi.org/10.1016/j.envint.2010.03.010)\]
+20.	Brown T.N. and Wania F.; Development and Exploration of an Organic Contaminant Fate Model Using Poly-Parameter Linear Free Energy Relationships. Environ. Sci. Technol. 2009, 43, 6676-6683. \[[DOI](https://doi.org/10.1021/es901205j)\]
+21.	Brown T.N. and Wania F.; Screening Chemicals for the Potential to be Persistent Organic Pollutants: A Case Study of Arctic Contaminants. Environ. Sci. Technol. 2008, 42, 5202-5209. \[[DOI](https://doi.org/10.1021/es8004514)\]
+22.	Brown T.N. and Mora-Diez N.; Computational determination of aqueous pKa values of protonated benzimidazoles (part 1). J. Phys. Chem. B 2006, 110, 9270-9279. \[[DOI](https://doi.org/10.1021/jp055084i)\]
+23.	Brown T.N. and Mora-Diez N.; Computational determination of aqueous pKa values of protonated benzimidazoles (part 2). J. Phys. Chem. B 2006, 110, 20546-20554. \[[DOI](https://doi.org/10.1021/jp0639501)\]
+\
 ![TNB Kalymnos 2018](./images/tnb_pic02.jpg)
