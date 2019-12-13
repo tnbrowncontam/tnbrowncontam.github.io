@@ -1,8 +1,6 @@
-![TNB Kalymnos 2018](./images/tnb_pic02.jpg)
-
 [Back to Homepage](./index.md)
 
-## CV of Trevor N. Brown
+# CV of Trevor N. Brown
 
 ## Education and Employment
 
@@ -10,13 +8,13 @@ Dr. Brown obtained his B.Sc. in Environmental Chemistry at Thompson Rivers Unive
 
 ## Publications
 
-1.	Brown T.N., J.M. Armitage, and J.A. Arnot, Application of an Iterative Fragment Selection (IFS) Method to Estimate Entropies of Fusion and Melting Points of Organic Chemicals. Molecular Informatics, 2019. 38(8-9): p. 1800160. \[[DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201800160)\] \[[Model](https://github.com/tnbrowncontam/ifsapp)\]
-2.	Hussain B.A., Westgate J.N., Hayward S.J., Shunthirasingham C., Brown T.N., Hung H., Lei Y.D., Wania F.; Polycyclic aromatic hydrocarbons and polychlorinated biphenyls in soils and atmosphere of Western Canadian mountains: The role of source proximity, precipitation, forest cover and mountain cold-trapping. Atmosph. Environ. X, 2018, 1, 100004.
-3.	Undeman E., Brown T.N., McLachlan M.S., Wania F.; Who in the world is most exposed to polychlorinated biphenyls? Using models to identify highly exposed populations. Environ. Res. Lett., 2018, 13, 064036.
-4.	Larisch W., Brown T.N., Goss K.U.; A toxicokinetic model for fish including multiphase sorption features. Environ. Toxicol. Chem., 2017, 36, 1538-1546.
-5.	Arp H.P.H., Brown T.N., Berger U., Hale S.E.; Ranking REACH registered neutral, ionizable and ionic organic chemicals based on their aquatic persistency and mobility. Environ. Sci. Proc. Imp., 2017, 19, 939-955.
-6.	Chen Y., Hermens J.L.M., Jonker M.T.O., Arnot J.A., Armitage J.M., Brown T.N., Nichols J.W., Fay K.A., Droge S.T.J.; Which molecular features affect the intrinsic hepatic clearance rate of ionizable organic chemicals in fish? Environ. Sci. Technol., 2016, 50, 12722-12731.
-7.	Brown T.N., Armitage J.M., Egeghy P., Kircanski I., Arnot J.A.; Dermal permeation data and models for the prioritization and screening-level exposure assessment of organic chemicals. Environ. Int., 2016, 94, 424-435.
+1.	Brown T.N., J.M. Armitage, and J.A. Arnot, Application of an Iterative Fragment Selection (IFS) Method to Estimate Entropies of Fusion and Melting Points of Organic Chemicals. Molecular Informatics, 2019. 38(8-9): p. 1800160. \[[DOI](https://doi.org/10.1002/minf.201800160)\] \[[Model](https://github.com/tnbrowncontam/ifsapp)\]
+2.	Hussain B.A., Westgate J.N., Hayward S.J., Shunthirasingham C., Brown T.N., Hung H., Lei Y.D., Wania F.; Polycyclic aromatic hydrocarbons and polychlorinated biphenyls in soils and atmosphere of Western Canadian mountains: The role of source proximity, precipitation, forest cover and mountain cold-trapping. Atmosph. Environ. X, 2018, 1, 100004. \[[DOI](https://doi.org/10.1016/j.aeaoa.2018.100004)\]
+3.	Undeman E., Brown T.N., McLachlan M.S., Wania F.; Who in the world is most exposed to polychlorinated biphenyls? Using models to identify highly exposed populations. Environ. Res. Lett., 2018, 13, 064036. \[[DOI](https://doi.org/10.1088/1748-9326/aac5fe)\]
+4.	Larisch W., Brown T.N., Goss K.U.; A toxicokinetic model for fish including multiphase sorption features. Environ. Toxicol. Chem., 2017, 36, 1538-1546. \[[DOI](https://doi.org/10.1002/etc.3677)\]
+5.	Arp H.P.H., Brown T.N., Berger U., Hale S.E.; Ranking REACH registered neutral, ionizable and ionic organic chemicals based on their aquatic persistency and mobility. Environ. Sci. Proc. Imp., 2017, 19, 939-955.  \[[DOI](https://doi.org/10.1039/C7EM00158D)\]
+6.	Chen Y., Hermens J.L.M., Jonker M.T.O., Arnot J.A., Armitage J.M., Brown T.N., Nichols J.W., Fay K.A., Droge S.T.J.; Which molecular features affect the intrinsic hepatic clearance rate of ionizable organic chemicals in fish? Environ. Sci. Technol., 2016, 50, 12722-12731. \[[DOI](https://doi.org/10.1021/acs.est.6b03504)\]
+7.	Brown T.N., Armitage J.M., Egeghy P., Kircanski I., Arnot J.A.; Dermal permeation data and models for the prioritization and screening-level exposure assessment of organic chemicals. Environ. Int., 2016, 94, 424-435. \[[DOI](https://doi.org/10.1016/j.envint.2016.05.025)\]
 8.	McLachlan M.S., Kierkegaard A., Radke M., Sobek A., Malmvärn A., Alsberg T., Arnot J.A., Brown T.N., Wania F., Breivik K., Xu S.; Using model-based screening to help discover known environmental contaminants. Environ. Sci. Technol., 2014, 48, 7264-7271.
 9.	Arnot J.A., Brown T.N., Wania F.; Estimating screening-level organic chemical half-lives in humans. Environ. Sci. Technol., 2014, 48, 723-730.
 10.	Brown T.N.; Predicting hexadecane-air equilibrium partition coefficients (L) with a group contribution approach constructed from high-quality data. SAR QSAR Environ. Res., 2014, 25, 51-71.
@@ -33,3 +31,5 @@ Dr. Brown obtained his B.Sc. in Environmental Chemistry at Thompson Rivers Unive
 21.	Brown T.N. and Wania F.; Screening Chemicals for the Potential to be Persistent Organic Pollutants: A Case Study of Arctic Contaminants. Environ. Sci. Technol. 2008, 42, 5202-5209.
 22.	Brown T.N. and Mora-Diez N.; Computational determination of aqueous pKa values of protonated benzimidazoles (part 1). J. Phys. Chem. B 2006, 110, 9270-9279.
 23.	Brown T.N. and Mora-Diez N.; Computational determination of aqueous pKa values of protonated benzimidazoles (part 2). J. Phys. Chem. B 2006, 110, 20546-20554.
+
+![TNB Kalymnos 2018](./images/tnb_pic02.jpg)
