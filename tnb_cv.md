@@ -33,5 +33,3 @@ Dr. Brown obtained his B.Sc. in Environmental Chemistry at Thompson Rivers Unive
 23.	Brown T.N. and Mora-Diez N.; Computational determination of aqueous pK<sub>a</sub> values of protonated benzimidazoles (part 2). J. Phys. Chem. B 2006, 110, 20546-20554. \[[DOI](https://doi.org/10.1021/jp0639501)\]
 
 <br/>
-
-![TNB Kalymnos 2018](./images/tnb_pic02.jpg)
