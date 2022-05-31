@@ -8,7 +8,7 @@ Dr. Brown obtained his B.Sc. in Environmental Chemistry at Thompson Rivers Unive
 
 ## Publications
 
-1.	Brown T.N., QSPRs for predicting equilibrium partitioning in solvent-air systems from the chemical structures of solutes and solvents. J. Solution Chem. 2022. Accepted. \[[Model](https://github.com/tnbrowncontam/ifsqsar)\]
+1.	Brown T.N., QSPRs for predicting equilibrium partitioning in solvent-air systems from the chemical structures of solutes and solvents. J. Solution Chem. 2022. \[[DOI](https://doi.org/10.1007/s10953-022-01162-2)\] \[[Model](https://github.com/tnbrowncontam/ifsqsar)\]
 1.	Brown T.N., Empirical regressions between system parameters and solute descriptors of polyparameter linear free energy relationships (PPLFERs) for predicting solvent-air partitioning. Fluid Phase Equilibria, 2021. 540: p. 113035. \[[DOI](https://doi.org/10.1016/j.fluid.2021.113035)\]
 2.	Brown T.N., J.M. Armitage, and J.A. Arnot, Application of an Iterative Fragment Selection (IFS) Method to Estimate Entropies of Fusion and Melting Points of Organic Chemicals. Molecular Informatics, 2019. 38(8-9): p. 1800160. \[[DOI](https://doi.org/10.1002/minf.201800160)\] \[[Model](https://github.com/tnbrowncontam/ifsqsar)\]
 3.	Hussain B.A., Westgate J.N., Hayward S.J., Shunthirasingham C., Brown T.N., Hung H., Lei Y.D., Wania F.; Polycyclic aromatic hydrocarbons and polychlorinated biphenyls in soils and atmosphere of Western Canadian mountains: The role of source proximity, precipitation, forest cover and mountain cold-trapping. Atmosph. Environ. X, 2019, 1, 100004. \[[DOI](https://doi.org/10.1016/j.aeaoa.2018.100004)\]
