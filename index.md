@@ -2,7 +2,7 @@
 
 ## Trevor N. Brown. Conducting scientific research in the field of Environmental Chemistry.
 
-Dr. Trevor N. Brown is is a Reseach Associate at ARC Arnot Research & Consulting (https://arnotresearch.com/). His primary research interest is developing chemical property prediction tools for partitioning and end-points related to environmental fate. He has more than 10 years experience developing and applying Quantitative Structure Activity Relationships (QSARs). During his Ph.D., Postdoc and employment he has worked closely with analytical chemists, which gives him a unique perspective focused on the quality and reliability of the data he uses to develop QSARs. QSARs are available for use in the free online platform EAS-E Suite (www.eas-e-suite.com).
+Dr. Trevor N. Brown is is a Reseach Associate at ARC Arnot Research & Consulting ([https://arnotresearch.com/](https://arnotresearch.com/)). His primary research interest is developing chemical property prediction tools for partitioning and end-points related to environmental fate. He has more than 10 years experience developing and applying Quantitative Structure Activity Relationships (QSARs). During his Ph.D., Postdoc and employment he has worked closely with analytical chemists, which gives him a unique perspective focused on the quality and reliability of the data he uses to develop QSARs. QSARs are available for use in the free online platform EAS-E Suite ([www.eas-e-suite.com](www.eas-e-suite.com)).
 
 ## Where to find TNB
 
